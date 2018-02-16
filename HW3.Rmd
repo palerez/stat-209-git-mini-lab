@@ -2,16 +2,15 @@
 title: "HW 3 Visualization Warmup"
 author: "Alain Perez"
 date: "2/15/2018"
-output:
-  pdf_document: default
+output: pdf_document
   
 ---
 
-'''{ r
-![](weedprices)
-}'''
+
+![](weedprices.png)
+
 ##Exercise 2
-The data came from fivethirtyeight.com. The graph consists of the variables: retail price of Marijguana, Wholesales, time measuered in months. The independent variable is time and the dependet varaibles are price and wholesales. 
+The data came from [fivethirtyeight.com](https://fivethirtyeight.com/features/legal-weed-isnt-the-boon-small-businesses-thought-it-would-be/). The graph consists of the variables: retail price of Marijguana, Wholesales, time measuered in months. The independent variable is time and the dependet varaibles are price and wholesales. 
 ##Exercise 3
 The data is being visualised by using position to show that price has been dropping over time and so has wholesales. Colors are seperating the two variables. Also, some text is showing a specific action that directly affected the price of marijguana.
 ##Exercise 4 
