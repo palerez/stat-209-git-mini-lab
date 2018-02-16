@@ -8,17 +8,14 @@ output:
 ---
 
 '''{ r
-![](HW3Picture)
+![](weedprices)
 }'''
 ##Exercise 2
-The data came from fivethirtyeight.com. The first graph is depicting the yearly U.S governemnts's budget as a percent of GDP (y-axis) since 1950 to 2020 (x-axis), so it is estimating what the deficit will be in the coming years. The second chart is depicting the difference in U.S's actual and potential GDP as a percent of potential GDP (y-axis) over the same time interval (x-axis), again forecasting what the percent change in the GDP will be in the near future. Finally, the last graph is scattplot with the dependent variable being the defecit as a share of GDP and the difference between actual and potential GDP being the independent variable.
-
+The data came from fivethirtyeight.com. The graph consists of the variables: retail price of Marijguana, Wholesales, time measuered in months. The independent variable is time and the dependet varaibles are price and wholesales. 
 ##Exercise 3
-In the first graph the U.S government's budget is being depicted by bar plots that will either plot down, for a defecit in the budget, or up for a surplus in the budget. The years are depicted horizotally and the color serves no prupose besides asethetic. Also, whether a surplus or defecit is shown is depecited by text. On the second graph we can observe the difference between actual GDP and potential GDP as a percent of Potential GDP by the use of bar plots. Longer plots indicate that there was a greater difference between the two. The plots also show the direction in which the indifference accord with plots plotting upward indicating that actual GDP was higher than potential GDP that year (thus a stronger economy) and plots plotting downward indicating that potential GDP was higher than actual GDP that year (weaker economy). Longer plots indicate a larger difference. The color is again for asethetic reasons and the years are depicted horizontally. In both graphs the forecasted data is seperated by a grey line. In the last graph the projected data is bolded and made a darker green. Also, the scatterplot is broken up andl abled into two quadrants with four directions labeled in text and the quadrant is marked with a grey line.
-
+The data is being visualised by using position to show that price has been dropping over time and so has wholesales. Colors are seperating the two variables. Also, some text is showing a specific action that directly affected the price of marijguana.
 ##Exercise 4 
 This makes my understanding of the data easier since everything is labled and mainly depicted using position and size.
 
 ##Exercise 5
-1) The visualization explains and depicts the information very well by using size and position to show how these two differences are shown seprately and together.
-2) What I would change is how the data in the first two graphs is organized by merging the two graphs that way we can see a trend forming between the two. This would be especially easy since the axis are the same.
+I would compare the data to colorado's.
